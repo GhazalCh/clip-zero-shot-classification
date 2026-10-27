@@ -47,8 +47,8 @@ The `images/` directory contains the images to analyze. The example filenames ab
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/GhazalCh/clip-zero-shot-classification>
-cd <clip-zero-shot-classification>
+git clone https://github.com/GhazalCh/clip-zero-shot-classification
+cd clip-zero-shot-classification
 ```
 
 Replace the placeholders with your actual GitHub repository URL and directory name.
